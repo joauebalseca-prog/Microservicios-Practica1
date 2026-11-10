@@ -1,0 +1,13 @@
+
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+
+# Archivos locales
+*.user
+*.suo
+
+# Archivos temporales
+*.tmp
+*.bak
